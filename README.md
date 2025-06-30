@@ -26,7 +26,7 @@ This project helped me to understand:
 -Importance of SEO for any website.
 
 ## 📌Note:
--This website's Styling and Functionality is solely done using AI ,only the HTML strucutre is handwritten.
+-This website's Styling and Functionality is solely done using AI ,only the HTML structure is handwritten.
 
 ## 📞Contact:
 Created by💻 Kunal Shirke 
