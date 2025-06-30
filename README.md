@@ -21,7 +21,7 @@ A simple Zomato homepage clone built using pure HTML,CSS and Javascript.Inspired
 
 ## 🧠Learnings:
 This project helped me to understand:
--How HTML buttons,hyperlinks and its basic structure.
+- HTML buttons,hyperlinks and its basic structure.
 -Use of AI to boost your productivity.
 -Importance of SEO for any website.
 
